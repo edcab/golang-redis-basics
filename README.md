@@ -15,7 +15,7 @@ Verifiquemos que el servicio esta correctamente iniciado
 $ redis-cli ping
 por consola el resultado debe ser PONG, entonces todo bien a la hora de instalar redis en nuestra maquina local
 
-#Ahora iniciemos las pruebas
+# Ahora iniciemos las pruebas
 Despues de clonar este repositorio comienza lo facil
 Desde consola en la raiz
 $ go run main.go
